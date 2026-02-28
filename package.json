@@ -1,11 +1,10 @@
 {
   "name": "dating-app",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.0",
   "type": "module",
-  "packageManager": "npm@9",
   "engines": {
-    "node": ">=18 <=20"
+    "node": ">=18"
   },
   "scripts": {
     "dev": "vite",
